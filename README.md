@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0303-range-sum-query-immutable) |
+| [0540-single-element-in-a-sorted-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0605-can-place-flowers) |
 | [0819-most-common-word](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0819-most-common-word) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0540-single-element-in-a-sorted-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
