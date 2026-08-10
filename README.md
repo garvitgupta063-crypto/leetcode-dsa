@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0303-range-sum-query-immutable) |
 | [0605-can-place-flowers](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0605-can-place-flowers) |
 | [0819-most-common-word](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0819-most-common-word) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
