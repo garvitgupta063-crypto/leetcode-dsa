@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1408-string-matching-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1408-string-matching-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1672-richest-customer-wealth) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0819-most-common-word](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
