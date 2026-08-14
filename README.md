@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0819-most-common-word](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0819-most-common-word) |
 | [1408-string-matching-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1408-string-matching-in-an-array) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
 |  |
 | ------- |
@@ -166,5 +168,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 <!---LeetCode Topics End-->
