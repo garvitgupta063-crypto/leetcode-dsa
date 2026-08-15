@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0217-contains-duplicate) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
