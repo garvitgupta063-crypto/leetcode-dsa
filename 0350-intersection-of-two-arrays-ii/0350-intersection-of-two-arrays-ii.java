@@ -15,12 +15,13 @@ class Solution {
             }
             i++;
         }
-        int[] arr = new int[list.size()];
-        int o = 0; 
-        while (!list.isEmpty()) {
-    arr[o] = list.remove(list.size() - 1);
-    o++;
-}
-        return arr;
+       int[] answer = new int[list.size()];
+
+        int j = 0;
+        for (int num : list) {
+            answer[j++] = num;
+        }
+
+        return answer;
     }
 }
