@@ -4,14 +4,16 @@ class Solution {
        
        boolean[] used = new boolean[nums2.length];
 
-        for (int i = 0; i < nums1.length; i++) {
-            for (int j = 0; j < nums2.length; j++) {
-                if (nums1[i] == nums2[j] && !used[j]) {
+        int i=0;
+        while(i<nums1.length){
+            for(int k=0;k<nums2.length;k++){
+                if(nums1[i]==nums2[k]&&!used[k]){
+                    used[k] = true;
                     list.add(nums1[i]);
-                    used[j] = true;
                     break;
                 }
             }
+            i++;
         }
         int[] arr = new int[list.size()];
         int o = 0; 
