@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1408-string-matching-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1408-string-matching-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1672-richest-customer-wealth) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3477-fruits-into-baskets-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0819-most-common-word) |
 | [1108-defanging-an-ip-address](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1108-defanging-an-ip-address) |
 | [1408-string-matching-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1408-string-matching-in-an-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
 |  |
