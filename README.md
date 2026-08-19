@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0819-most-common-word](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0819-most-common-word) |
+| [0946-validate-stack-sequences](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-longest-turbulent-subarray](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0978-longest-turbulent-subarray) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0946-validate-stack-sequences](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0962-maximum-width-ramp) |
 ## Tree
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0946-validate-stack-sequences](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0946-validate-stack-sequences) |
 | [3477-fruits-into-baskets-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
