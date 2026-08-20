@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0155-min-stack) |
 | [0946-validate-stack-sequences](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0962-maximum-width-ramp) |
 ## Tree
