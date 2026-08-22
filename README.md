@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1408-string-matching-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1408-string-matching-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1672-richest-customer-wealth) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0605-can-place-flowers) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Enumeration
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Design
 |  |
