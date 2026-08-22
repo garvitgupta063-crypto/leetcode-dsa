@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0217-contains-duplicate) |
+| [0264-ugly-number-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0264-ugly-number-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2469-convert-the-temperature](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2469-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Design
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0264-ugly-number-ii) |
 | [0978-longest-turbulent-subarray](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0978-longest-turbulent-subarray) |
 ## Stack
 |  |
