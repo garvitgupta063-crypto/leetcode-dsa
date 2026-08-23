@@ -9,14 +9,14 @@ class Solution {
         for(String s : map.keySet()){
            list.add(s);
         }
-        Collections.sort(list, (a, b) -> {
+       Collections.sort(list, (a, b) -> {
             if (map.get(a) != map.get(b)) {
                 return map.get(b) - map.get(a);
             }
             return a.compareTo(b);
         });
 
-        // Take first k words
+       
         return list.subList(0, k);
     }
 }
