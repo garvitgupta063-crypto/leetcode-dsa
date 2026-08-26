@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0264-ugly-number-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1927-sum-game](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1927-sum-game) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2469-convert-the-temperature](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2469-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1927-sum-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2390-removing-stars-from-a-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0978-longest-turbulent-subarray](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0978-longest-turbulent-subarray) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Segment Tree
