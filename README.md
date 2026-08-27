@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0264-ugly-number-ii) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0139-word-break) |
 | [0345-reverse-vowels-of-a-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0264-ugly-number-ii) |
 | [0978-longest-turbulent-subarray](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0978-longest-turbulent-subarray) |
 ## Stack
@@ -324,9 +328,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0692-top-k-frequent-words) |
 ## Merge Sort
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0912-sort-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
