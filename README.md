@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0692-top-k-frequent-words) |
+| [0705-design-hashset](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0705-design-hashset) |
 | [0819-most-common-word](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0819-most-common-word) |
 | [0905-sort-array-by-parity](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0912-sort-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0692-top-k-frequent-words) |
+| [0705-design-hashset](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0705-design-hashset) |
 | [0819-most-common-word](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0819-most-common-word) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0705-design-hashset) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -346,4 +349,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0139-word-break) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
