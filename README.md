@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0819-most-common-word) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2351-first-letter-to-appear-twice) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0819-most-common-word) |
 | [0912-sort-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2351-first-letter-to-appear-twice) |
 ## Matrix
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0136-single-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2351-first-letter-to-appear-twice) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Breadth-First Search
 |  |
