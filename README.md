@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0264-ugly-number-ii) |
 | [0978-longest-turbulent-subarray](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0978-longest-turbulent-subarray) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0543-diameter-of-binary-tree) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0543-diameter-of-binary-tree) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0543-diameter-of-binary-tree) |
@@ -369,5 +373,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
