@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-longest-turbulent-subarray](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0978-longest-turbulent-subarray) |
 | [1089-duplicate-zeros](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1089-duplicate-zeros) |
+| [1200-minimum-absolute-difference](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1200-minimum-absolute-difference](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
