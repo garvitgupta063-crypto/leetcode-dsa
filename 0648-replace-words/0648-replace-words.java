@@ -1,6 +1,6 @@
 class Solution {
     public String replaceWords(List<String> dictionary, String sentence) {
-        String[] arr = sentence.split(" ");
+        String[] arr = sentence.split("\\ ");
         int j = 0;
         while(j<dictionary.size()){
             String str = dictionary.get(j);
