@@ -5,13 +5,11 @@ class Solution {
         int j = 0;
         int max = Integer.MIN_VALUE;
         while(j<s.length()){
-            char ch = s.charAt(j);
-            if(vowel(ch)){
+            if(vowel(s.charAt(j))){
                 count++;
             }
-
             if(j-i+1==k){
-                max = Math.max(max,count);
+                max = Math.max(count,max);
                 if(vowel(s.charAt(i))){
                     count--;
                 }
