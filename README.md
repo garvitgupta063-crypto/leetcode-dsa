@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0264-ugly-number-ii) |
+| [0858-mirror-reflection](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0858-mirror-reflection) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1641-count-sorted-vowel-strings](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1641-count-sorted-vowel-strings) |
 | [1927-sum-game](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1927-sum-game) |
@@ -414,4 +415,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1641-count-sorted-vowel-strings) |
+## Geometry
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0858-mirror-reflection) |
+## Number Theory
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0858-mirror-reflection) |
+## Least Common Multiple
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0858-mirror-reflection) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0858-mirror-reflection) |
 <!---LeetCode Topics End-->
