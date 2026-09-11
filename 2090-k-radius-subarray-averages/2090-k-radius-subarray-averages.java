@@ -17,8 +17,7 @@ class Solution {
         arr[k] = (int)(sum/w);
 
         for(int i=w;i<n;i++){
-            sum += nums[i];
-            sum -= nums[i-w];
+            sum += nums[i]-nums[i-w];
 
             int center = i - k;
             arr[center] = (int)(sum / w);
