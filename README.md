@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0139-word-break) |
 | [0345-reverse-vowels-of-a-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0567-permutation-in-string) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0978-longest-turbulent-subarray](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0978-longest-turbulent-subarray) |
