@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0456-132-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0645-set-mismatch) |
