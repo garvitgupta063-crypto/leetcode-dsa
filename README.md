@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0692-top-k-frequent-words) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0912-sort-an-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0303-range-sum-query-immutable) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0705-design-hashset) |
 ## Prefix Sum
 |  |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0662-maximum-width-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0662-maximum-width-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -503,4 +507,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
