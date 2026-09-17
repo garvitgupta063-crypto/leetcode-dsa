@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0456-132-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0540-single-element-in-a-sorted-array) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0645-set-mismatch) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0692-top-k-frequent-words) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0692-top-k-frequent-words) |
 | [0804-unique-morse-code-words](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0804-unique-morse-code-words) |
