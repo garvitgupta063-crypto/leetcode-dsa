@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0804-unique-morse-code-words](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0819-most-common-word) |
+| [0875-koko-eating-bananas](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0922-sort-array-by-parity-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0633-sum-of-square-numbers) |
+| [0875-koko-eating-bananas](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2498-frog-jump-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2498-frog-jump-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
