@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0648-replace-words) |
+| [0658-find-k-closest-elements](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0705-design-hashset) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2498-frog-jump-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2498-frog-jump-ii) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [0962-maximum-width-ramp](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0962-maximum-width-ramp) |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0264-ugly-number-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0912-sort-an-array) |
@@ -417,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0658-find-k-closest-elements) |
 | [0978-longest-turbulent-subarray](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0978-longest-turbulent-subarray) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1652-defuse-the-bomb) |
