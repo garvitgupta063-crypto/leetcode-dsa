@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3477-fruits-into-baskets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3708-longest-fibonacci-subarray](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3708-longest-fibonacci-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3875-construct-uniform-parity-array-i) |
