@@ -6,7 +6,7 @@ class Solution {
             if(nums[i-2]+nums[i-1]==nums[i]){
                 count++;
                 maxcount = Math.max(count,maxcount);
-            }else if(nums[i-2]+nums[i-1]!=nums[i]){
+            }else if(nums[i-1]+nums[i-2]!=nums[i]){
                 count = 0;
             }
         }
