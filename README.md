@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0088-merge-sorted-array) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
@@ -452,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0456-132-pattern) |
 | [0962-maximum-width-ramp](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0962-maximum-width-ramp) |
 ## Bucket Sort
