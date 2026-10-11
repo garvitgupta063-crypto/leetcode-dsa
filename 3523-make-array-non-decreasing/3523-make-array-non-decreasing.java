@@ -1,16 +1,16 @@
 
 class Solution {
     public int maximumPossibleSize(int[] nums) {
-        int count = 0;
-        int max = 0;
-
-        for (int num : nums) {
-            if (num >= max) {
-                count++;
-                max = num;
+        Stack<Integer> st = new Stack<>();
+        for(int i=0;i<nums.length;i++){
+            if(st.isEmpty()){
+                st.push(nums[i]);
+            }else{
+                if(st.peek()<=nums[i]){
+                    st.push(nums[i]);
+                }
             }
         }
-
-        return count;
+        return st.size();
     }
 }
