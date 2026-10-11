@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3477-fruits-into-baskets-ii) |
+| [3523-make-array-non-decreasing](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3523-make-array-non-decreasing) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3708-longest-fibonacci-subarray](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3708-longest-fibonacci-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1927-sum-game) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2498-frog-jump-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2498-frog-jump-ii) |
+| [3523-make-array-non-decreasing](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3523-make-array-non-decreasing) |
 ## Enumeration
 |  |
 | ------- |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0962-maximum-width-ramp) |
 | [1021-remove-outermost-parentheses](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
+| [3523-make-array-non-decreasing](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3523-make-array-non-decreasing) |
 ## Tree
 |  |
 | ------- |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0456-132-pattern) |
 | [0962-maximum-width-ramp](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0962-maximum-width-ramp) |
+| [3523-make-array-non-decreasing](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3523-make-array-non-decreasing) |
 ## Bucket Sort
 |  |
 | ------- |
