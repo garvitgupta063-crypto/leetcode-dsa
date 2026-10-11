@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2460-apply-operations-to-an-array) |
 | [2498-frog-jump-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2498-frog-jump-ii) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Heap (Priority Queue)
 |  |
