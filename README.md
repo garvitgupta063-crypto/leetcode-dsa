@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1672-richest-customer-wealth) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2090-k-radius-subarray-averages](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2090-k-radius-subarray-averages) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
