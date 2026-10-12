@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0692-top-k-frequent-words) |
 | [0804-unique-morse-code-words](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0819-most-common-word) |
+| [0856-score-of-parentheses](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1108-defanging-an-ip-address) |
 | [1408-string-matching-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1408-string-matching-in-an-array) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0155-min-stack) |
 | [0456-132-pattern](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0856-score-of-parentheses) |
 | [0946-validate-stack-sequences](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0962-maximum-width-ramp) |
 | [1021-remove-outermost-parentheses](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
@@ -565,5 +567,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
