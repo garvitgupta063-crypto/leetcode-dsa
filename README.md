@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0633-sum-of-square-numbers) |
 | [0858-mirror-reflection](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0858-mirror-reflection) |
+| [1006-clumsy-factorial](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1006-clumsy-factorial) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1641-count-sorted-vowel-strings](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1641-count-sorted-vowel-strings) |
 | [1927-sum-game](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1927-sum-game) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0856-score-of-parentheses) |
 | [0946-validate-stack-sequences](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0962-maximum-width-ramp) |
+| [1006-clumsy-factorial](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1006-clumsy-factorial) |
 | [1021-remove-outermost-parentheses](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
 | [3523-make-array-non-decreasing](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3523-make-array-non-decreasing) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0946-validate-stack-sequences) |
+| [1006-clumsy-factorial](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1006-clumsy-factorial) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2460-apply-operations-to-an-array) |
