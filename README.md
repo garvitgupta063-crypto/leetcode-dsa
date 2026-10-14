@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0088-merge-sorted-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0946-validate-stack-sequences](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0946-validate-stack-sequences) |
 | [1006-clumsy-factorial](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1006-clumsy-factorial) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
