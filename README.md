@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0217-contains-duplicate) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1672-richest-customer-wealth) |
