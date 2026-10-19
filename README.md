@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0064-minimum-path-sum) |
+| [0119-pascals-triangle-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
