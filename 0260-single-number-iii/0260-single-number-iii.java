@@ -10,7 +10,7 @@ class Solution {
                 list.add(i);
             }
         }
-        Integer[] arr = list.toArray(new Integer[0]);
+        
         return list.stream()
                    .mapToInt(Integer::intValue)
                    .toArray();
