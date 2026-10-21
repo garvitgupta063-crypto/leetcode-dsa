@@ -16,12 +16,12 @@
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
         Queue<TreeNode> q = new LinkedList<TreeNode>();
-        List<List<Integer>> list = new LinkedList<List<Integer>>();
+        List<List<Integer>> list = new ArrayList<>();
         if(root == null) return list;
         q.offer(root);
         while(!q.isEmpty()){
             int n = q.size();
-            List<Integer> list1 = new LinkedList<Integer>();
+            List<Integer> list1 = new ArrayList<>();
             for(int i=0;i<n;i++){
                 if(q.peek().left != null) q.offer(q.peek().left);
                 if(q.peek().right != null) q.offer(q.peek().right);
