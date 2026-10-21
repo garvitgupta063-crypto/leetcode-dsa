@@ -20,8 +20,8 @@ class Solution {
         if(root == null) return list;
         q.offer(root);
         while(!q.isEmpty()){
-            int n = q.size();
             List<Integer> list1 = new ArrayList<>();
+            int n = q.size();
             for(int i=0;i<n;i++){
                 if(q.peek().left != null) q.offer(q.peek().left);
                 if(q.peek().right != null) q.offer(q.peek().right);
