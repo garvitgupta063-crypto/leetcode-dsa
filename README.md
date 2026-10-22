@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0376-wiggle-subsequence](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0376-wiggle-subsequence) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0441-arranging-coins) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0443-string-compression) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0645-set-mismatch) |
 | [2351-first-letter-to-appear-twice](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2351-first-letter-to-appear-twice) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
@@ -546,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 ## Trie
 |  |
 | ------- |
@@ -638,4 +643,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0176-second-highest-salary) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
