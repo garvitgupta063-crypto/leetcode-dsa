@@ -17,7 +17,7 @@ class Solution {
     public boolean isBalanced(TreeNode root) {
         return dfs(root) != -1;
     }
-    public int dfs(TreeNode root){
+    private int dfs(TreeNode root){
         if(root == null) return 0;
         int lh = dfs(root.left);
         if(lh == -1) return -1;
