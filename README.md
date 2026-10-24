@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0148-sort-list) |
+| [0328-odd-even-linked-list](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0328-odd-even-linked-list) |
 | [0705-design-hashset](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0705-design-hashset) |
 ## Hash Function
 |  |
