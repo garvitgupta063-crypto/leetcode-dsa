@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1641-count-sorted-vowel-strings) |
 | [1927-sum-game](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1927-sum-game) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2409-count-days-spent-together](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2469-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
