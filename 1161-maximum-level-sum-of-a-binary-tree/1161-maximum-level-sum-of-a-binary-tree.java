@@ -31,9 +31,9 @@ class Solution {
                 sum += q.poll().val;
             }
             if(sum>max){
+                max = sum;
                 b = a;
             }
-            max = Math.max(max,sum);
         }
         return b;
     }
