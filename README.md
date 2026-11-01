@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0139-word-break) |
+| [0257-binary-tree-paths](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0443-string-compression) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0700-search-in-a-binary-search-tree) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0700-search-in-a-binary-search-tree) |
@@ -687,4 +691,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
