@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0456-132-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0540-single-element-in-a-sorted-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0264-ugly-number-ii) |
 | [0441-arranging-coins](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0633-sum-of-square-numbers](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0633-sum-of-square-numbers) |
 | [0858-mirror-reflection](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0858-mirror-reflection) |
 | [1006-clumsy-factorial](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1006-clumsy-factorial) |
