@@ -23,9 +23,11 @@ class Solution {
             int size = q.size();
             double sum = 0;
             for(int i=0;i<size;i++){
-                if(q.peek().left != null) q.offer(q.peek().left);
-                if(q.peek().right != null) q.offer(q.peek().right);
-                sum += q.poll().val;
+                TreeNode node = q.poll();
+                sum += node.val;
+
+                if(node.left != null) q.offer(node.left);
+                if(node.right != null) q.offer(node.right);
             }
             double a = (double)sum/size;
             list.add(a);
