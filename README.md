@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0376-wiggle-subsequence](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0376-wiggle-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0414-third-maximum-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0414-third-maximum-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0532-k-diff-pairs-in-an-array) |
