@@ -2,14 +2,20 @@ class Solution {
     public String digitSum(String s, int k) {
         while(s.length()>k){
             String str = "";
-            int j = 0;
-            while(j<s.length()){
-                int sum = 0;
-            for(int i=0;i<k;i++){
-                sum += s.charAt(j++)-'0';
-                if(j>=s.length()) break;
+            int a = 0;
+            int sum = 0;
+            for(int i=0;i<s.length();i++){
+                sum += s.charAt(i)-'0';
+                a++;
+                if(a==k){
+                    str += sum;
+                    sum =0 ;
+                    a = 0;
+                }
             }
-            str += sum;
+            if(a!=0){
+                str += sum;
+                sum = 0;
             }
             s = str;
         }
