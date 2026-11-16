@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1927-sum-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0946-validate-stack-sequences) |
 | [1006-clumsy-factorial](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1006-clumsy-factorial) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2460-apply-operations-to-an-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3477-fruits-into-baskets-ii) |
