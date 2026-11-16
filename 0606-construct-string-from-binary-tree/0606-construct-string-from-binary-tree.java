@@ -13,24 +13,18 @@
  *     }
  * }
  */
-
 class Solution {
     public String tree2str(TreeNode root) {
         if(root == null) return "";
-
-        String s = "" + root.val;
-
-        if(root.left != null) {
-            s += "(" + tree2str(root.left) + ")";
+        String s = ""+root.val;
+        if(root.left!=null){
+            s += "("+tree2str(root.left)+")";
+        }else if(root.right!=null){
+            s+="()";
         }
-        else if(root.right != null) {
-            s += "()";
+        if(root.right!=null){
+            s += "("+tree2str(root.right)+")";
         }
-
-        if(root.right != null) {
-            s += "(" + tree2str(root.right) + ")";
-        }
-
         return s;
     }
 }
