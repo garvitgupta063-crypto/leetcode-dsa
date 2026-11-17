@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0397-integer-replacement) |
 | [0605-can-place-flowers](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0763-partition-labels) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0264-ugly-number-ii) |
 | [0376-wiggle-subsequence](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0397-integer-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0978-longest-turbulent-subarray](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0978-longest-turbulent-subarray) |
 | [1641-count-sorted-vowel-strings](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1641-count-sorted-vowel-strings) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0318-maximum-product-of-word-lengths) |
+| [0397-integer-replacement](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0397-integer-replacement) |
 | [0645-set-mismatch](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0645-set-mismatch) |
 | [2351-first-letter-to-appear-twice](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2351-first-letter-to-appear-twice) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
@@ -637,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0139-word-break) |
+| [0397-integer-replacement](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0397-integer-replacement) |
 ## Brute-Force Search
 |  |
 | ------- |
