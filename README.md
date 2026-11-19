@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0819-most-common-word) |
 | [0856-score-of-parentheses](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1108-defanging-an-ip-address) |
 | [1408-string-matching-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0962-maximum-width-ramp) |
 | [1006-clumsy-factorial](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1006-clumsy-factorial) |
 | [1021-remove-outermost-parentheses](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
 | [3523-make-array-non-decreasing](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3523-make-array-non-decreasing) |
 ## Tree
