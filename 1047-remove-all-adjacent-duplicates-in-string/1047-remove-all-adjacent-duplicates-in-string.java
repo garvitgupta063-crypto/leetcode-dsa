@@ -12,11 +12,9 @@ class Solution {
             }
         }
         StringBuilder str = new StringBuilder();
-        while(!st.empty()){
-            char ch = st.pop();
+        for(char ch : st){
             str.append(ch);
-           
-        } 
-        return str.reverse().toString();
+        }
+        return str.toString();
     }
 }
