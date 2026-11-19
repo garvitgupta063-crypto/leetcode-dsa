@@ -35,6 +35,5 @@ class Solution {
         }
         t.next = current;
         return head;
-
     }
 }
