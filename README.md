@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0763-partition-labels) |
 | [0804-unique-morse-code-words](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0819-most-common-word) |
+| [0844-backspace-string-compare](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0763-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [0962-maximum-width-ramp](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0962-maximum-width-ramp) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0155-min-stack) |
 | [0456-132-pattern](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0856-score-of-parentheses) |
 | [0946-validate-stack-sequences](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0962-maximum-width-ramp) |
@@ -582,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0946-validate-stack-sequences) |
 | [1006-clumsy-factorial](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/1006-clumsy-factorial) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
