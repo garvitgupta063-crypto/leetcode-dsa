@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0303-range-sum-query-immutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0318-maximum-product-of-word-lengths) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0376-wiggle-subsequence](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0376-wiggle-subsequence) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0441-arranging-coins) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0912-sort-an-array) |
 ## String
 |  |
@@ -582,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3477-fruits-into-baskets-ii) |
 ## Simulation
@@ -601,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0456-132-pattern](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0456-132-pattern) |
 | [3477-fruits-into-baskets-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3477-fruits-into-baskets-ii) |
 ## Monotonic Stack
@@ -645,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0148-sort-list) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0912-sort-an-array) |
 ## Memoization
 |  |
@@ -724,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Union-Find
 |  |
@@ -748,4 +755,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0206-reverse-linked-list) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
