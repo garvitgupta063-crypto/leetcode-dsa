@@ -1,21 +1,20 @@
 class Solution {
-    public int calPoints(String[] ops) {
-        Stack<Integer> st = new Stack();
+    public int calPoints(String[] op) {
+        Stack<Integer> st = new Stack<>();
         int ans = 0;
-
-        for(String op : ops){
-            if(op.equals("+")){
+        for(String ch : op){
+            if(ch.equals("+")){
                 int top = st.pop();
-                int newtop = top+st.peek();
+                int nexttop = top+st.peek();
                 st.push(top);
-                st.push(newtop);
-            }else if(op.equals("D")){
+                st.push(nexttop);
+            }else if(ch.equals("D")){
                 st.push(2*st.peek());
-            }else if(op.equals("C")){
+            }else if(ch.equals("C")){
                 ans -= st.pop();
                 continue;
             }else{
-                st.push(Integer.valueOf(op));
+                st.push(Integer.valueOf(ch));
             }
             ans += st.peek();
         }
