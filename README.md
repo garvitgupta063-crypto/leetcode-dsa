@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2469-convert-the-temperature) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/2460-apply-operations-to-an-array) |
+| [3360-stone-removal-game](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3360-stone-removal-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/3498-reverse-degree-of-a-string) |
 ## Ordered Set
