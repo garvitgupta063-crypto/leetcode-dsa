@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0118-pascals-triangle) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0260-single-number-iii) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/garvitgupta063-crypto/leetcode-dsa/tree/master/0257-binary-tree-paths) |
 ## Recursion
 |  |
